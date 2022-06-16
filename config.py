@@ -1,2 +1,2 @@
 # Interval between consecutive messages in seconds
-MESSAGE_INTERVAL = 1
+MESSAGE_INTERVAL = 2
